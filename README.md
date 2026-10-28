@@ -6,7 +6,7 @@ I'm a Computer Science student at Adelaide University, majoring in Artificial In
 
 ## Building now
 
-- **sql-bookstore-analytics** (in progress): a relational schema for a bookstore, with business questions answered in SQL.
+- [**sql-bookstore-analytics**](https://github.com/YazanAlshareef/sql-bookstore-analytics): a bookstore database in SQLite with 20 business questions answered in SQL, using synthetic data.
 - **excel-sales-dashboard** (in progress): messy sales data cleaned with Power Query and turned into a KPI dashboard.
 - **BridgeKnowledge**: a full-stack web app for school listings, application tracking, and an AI assistant that falls back to a second model if the first fails.
 
@@ -22,6 +22,7 @@ Earlier work includes a [Pokemon game in C++](https://github.com/YazanAlshareef/
 
 Based in Adelaide, Australia. I'm looking for AI and data internships.
 
+- Portfolio: [portfolio-yazanalshareef.vercel.app](https://portfolio-yazanalshareef.vercel.app)
 - Email: [yaznaustralia@gmail.com](mailto:yaznaustralia@gmail.com)
 - LinkedIn: [yazanalshareef](https://www.linkedin.com/in/yazanalshareef)
 
