@@ -40,7 +40,7 @@ Earlier work includes a [Pokemon game in C++](https://github.com/YazanAlshareef/
 
 ## Contact
 
-Based in Adelaide, Australia. I'm looking for AI and data internships.
+Based in Adelaide, Australia.
 
 - Portfolio: [portfolio-yazanalshareef.vercel.app](https://portfolio-yazanalshareef.vercel.app)
 - Email: [yaznaustralia@gmail.com](mailto:yaznaustralia@gmail.com)
